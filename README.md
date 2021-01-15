@@ -1,3 +1,4 @@
+![Home 1](https://user-images.githubusercontent.com/50247227/104783205-56a8f380-57a7-11eb-8ed5-4f652400877a.png)
 ![Home 2](https://user-images.githubusercontent.com/50247227/104782986-f1550280-57a6-11eb-8342-09ec2473f64a.png)
 ![admin dash 2](https://user-images.githubusercontent.com/50247227/104782975-ee5a1200-57a6-11eb-879c-3f6e1be986cd.png)
 ![admin dash out](https://user-images.githubusercontent.com/50247227/104782981-f023d580-57a6-11eb-982f-9a6e4387f1b5.png)
