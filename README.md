@@ -1,0 +1,6 @@
+![admin dash 2](https://user-images.githubusercontent.com/50247227/104782975-ee5a1200-57a6-11eb-879c-3f6e1be986cd.png)
+![admin dash out](https://user-images.githubusercontent.com/50247227/104782981-f023d580-57a6-11eb-982f-9a6e4387f1b5.png)
+![login out](https://user-images.githubusercontent.com/50247227/104782983-f0bc6c00-57a6-11eb-9025-28e15aa4e6a9.png)
+![reg out](https://user-images.githubusercontent.com/50247227/104782984-f0bc6c00-57a6-11eb-9821-8bb67f93ae9a.png)
+![Home 2](https://user-images.githubusercontent.com/50247227/104782986-f1550280-57a6-11eb-8342-09ec2473f64a.png)
+![user dash out](https://user-images.githubusercontent.com/50247227/104782988-f1ed9900-57a6-11eb-84d7-5a247dfd8067.png)
